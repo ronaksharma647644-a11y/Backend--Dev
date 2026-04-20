@@ -52,7 +52,7 @@ Auth	JWT / Cookies
 Maps	Google Maps API
 ⚙️ Installation
 📥 Clone Repository
-git clone https://github.com/your-username/food-delivery-web-app.git
+https://github.com/sahilkumar14/food-delivery-web-application-frontend
 cd food-delivery-web-app
 🔧 Setup Backend
 cd backend

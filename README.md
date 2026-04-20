@@ -5,6 +5,8 @@ Frontend group repo link--> https://github.com/sahilkumar14/food-delivery-web-ap
 
 Backend group repo link--> https://github.com/sahilkumar14/food-delivery-web-application-backend
 
+Project deployment link--> https://food-delivery-web-application-front-henna.vercel.app/home
+
 # food-delivery-web-application-frontend-
 
 🍔 Food Delivery Web App
@@ -52,7 +54,7 @@ Auth	JWT / Cookies
 Maps	Google Maps API
 ⚙️ Installation
 📥 Clone Repository
-https://github.com/sahilkumar14/food-delivery-web-application-frontend
+git clone https://github.com/your-username/food-delivery-web-app.git
 cd food-delivery-web-app
 🔧 Setup Backend
 cd backend
@@ -93,4 +95,6 @@ Sahil Kumar
 Saniya Gupta
 Samay Gupta
 ronak sharma
+
+
 
